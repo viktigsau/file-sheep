@@ -2,7 +2,9 @@
     "domains":[
         {
             "domain":"youtube.com",
-            "urls":[],
+            "urls":[
+                "https://youtube.com"
+            ],
             "last_crawled":-1
         }
     ]
