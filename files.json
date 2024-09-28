@@ -5,6 +5,8 @@
             "urls":[
                 "https://youtube.com"
             ],
+            "images":[],
+            "scripts":[],
             "last_crawled":-1
         }
     ]
